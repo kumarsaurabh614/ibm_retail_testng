@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="137871" started-at="2022-03-11T07:21:06Z" finished-at="2022-03-11T07:23:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="137871" started-at="2022-03-11T07:21:06Z" finished-at="2022-03-11T07:23:24Z">
+      <class name="retail_assignment.retail">
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="8444" started-at="2022-03-11T12:51:06Z" finished-at="2022-03-11T12:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="add_product_feature()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="add_product_feature" duration-ms="4923" started-at="2022-03-11T12:51:15Z" finished-at="2022-03-11T12:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_product_feature -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="812" started-at="2022-03-11T12:51:20Z" finished-at="2022-03-11T12:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7806" started-at="2022-03-11T12:51:20Z" finished-at="2022-03-11T12:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="cancel_mail()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="cancel_mail" duration-ms="5474" started-at="2022-03-11T12:51:28Z" finished-at="2022-03-11T12:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancel_mail -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="832" started-at="2022-03-11T12:51:34Z" finished-at="2022-03-11T12:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7223" started-at="2022-03-11T12:51:34Z" finished-at="2022-03-11T12:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_add_product_button()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_add_product_button" duration-ms="2473" started-at="2022-03-11T12:51:42Z" finished-at="2022-03-11T12:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_add_product_button -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="876" started-at="2022-03-11T12:51:44Z" finished-at="2022-03-11T12:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7397" started-at="2022-03-11T12:51:45Z" finished-at="2022-03-11T12:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_delete_option()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_delete_option" duration-ms="1720" started-at="2022-03-11T12:51:52Z" finished-at="2022-03-11T12:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_delete_option -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="844" started-at="2022-03-11T12:51:54Z" finished-at="2022-03-11T12:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="6741" started-at="2022-03-11T12:51:55Z" finished-at="2022-03-11T12:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_filter_model()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_filter_model" duration-ms="3726" started-at="2022-03-11T12:52:02Z" finished-at="2022-03-11T12:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_filter_model -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="826" started-at="2022-03-11T12:52:05Z" finished-at="2022-03-11T12:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7221" started-at="2022-03-11T12:52:06Z" finished-at="2022-03-11T12:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_filter_price()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_filter_price" duration-ms="3544" started-at="2022-03-11T12:52:14Z" finished-at="2022-03-11T12:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_filter_price -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="837" started-at="2022-03-11T12:52:17Z" finished-at="2022-03-11T12:52:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="6840" started-at="2022-03-11T12:52:18Z" finished-at="2022-03-11T12:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_filter_product_name()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_filter_product_name" duration-ms="1508" started-at="2022-03-11T12:52:25Z" finished-at="2022-03-11T12:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_filter_product_name -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="795" started-at="2022-03-11T12:52:26Z" finished-at="2022-03-11T12:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7229" started-at="2022-03-11T12:52:27Z" finished-at="2022-03-11T12:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_filter_quantity()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_filter_quantity" duration-ms="4191" started-at="2022-03-11T12:52:34Z" finished-at="2022-03-11T12:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_filter_quantity -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="806" started-at="2022-03-11T12:52:38Z" finished-at="2022-03-11T12:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7526" started-at="2022-03-11T12:52:39Z" finished-at="2022-03-11T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="check_filter_status()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="check_filter_status" duration-ms="3773" started-at="2022-03-11T12:52:47Z" finished-at="2022-03-11T12:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_filter_status -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="802" started-at="2022-03-11T12:52:51Z" finished-at="2022-03-11T12:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7238" started-at="2022-03-11T12:52:51Z" finished-at="2022-03-11T12:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_catalog_product_option()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="select_catalog_product_option" duration-ms="970" started-at="2022-03-11T12:52:59Z" finished-at="2022-03-11T12:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_catalog_product_option -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="795" started-at="2022-03-11T12:53:00Z" finished-at="2022-03-11T12:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="6840" started-at="2022-03-11T12:53:00Z" finished-at="2022-03-11T12:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_mail_option()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="select_mail_option" duration-ms="1399" started-at="2022-03-11T12:53:07Z" finished-at="2022-03-11T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_mail_option -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="875" started-at="2022-03-11T12:53:09Z" finished-at="2022-03-11T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="login" is-config="true" duration-ms="7512" started-at="2022-03-11T12:53:09Z" finished-at="2022-03-11T12:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="send_mail()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="send_mail" duration-ms="6126" started-at="2022-03-11T12:53:17Z" finished-at="2022-03-11T12:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_mail -->
+        <test-method status="PASS" signature="close()[pri:0, instance:retail_assignment.retail@6e3c1e69]" name="close" is-config="true" duration-ms="902" started-at="2022-03-11T12:53:23Z" finished-at="2022-03-11T12:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- retail_assignment.retail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
